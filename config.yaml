@@ -82,10 +82,7 @@ dns:
     - "*.msftncsi.com"
   prefer-h3: false
 hosts: {}
-proxy-providers:
-  ID_zgtbha0a:
-    type: file
-    path: ../subscribes/ID_ws6nbxeg.yaml
+proxy-providers: {}
 rule-providers:
   category-ads-all:
     type: http
